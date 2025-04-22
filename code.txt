@@ -27,6 +27,8 @@ void print_primes(int n) {
     printf("\n");
 }
 
+// Driver code 
+
 int main() {
     int n;
     printf("Enter a number: ");
